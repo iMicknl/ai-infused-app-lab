@@ -1,8 +1,12 @@
-# ai-infused-app-lab
+# AI-infused-app-lab
 
-# Using a Microsoft Azure Pass
+This is github repository covers the essentials of getting started with Cognitive Services on Azure. Today we are going to work with two main tutorials from the cognitive services portfolio: 
+- Mick can you insert the other part here :)
+- [Document translation](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/get-started-with-document-translation?tabs=csharp) as a part of the Microsoft Translation Service.
 
-Participants are each supplied with an individual pass, so that they can do the work on their own. Each Pass comes with a credit of $25 and is valid for 14 days, so that you are able to play around with the services after the session. However, it is **important** to follow the instructions of redemption. 
+# Redeeming a Microsoft Azure Pass
+
+Participants are each supplied with an individual pass, so that they can do the work on their own. Each pass comes with a credit of $25 and is valid for 14 days, so that you are able to play around with the services after the session. It is **important** to follow the instructions of redemption below. 
 
 Limitations:
 - **DO NOT** redeem promo code with an email account that is attached to an EA (Enterprise Agreement), **the pass will not work**.
@@ -16,4 +20,4 @@ Limitations:
 
 Redemption guide:
 
-Start by redeeming your Azure Pass by following the guide here: [microsoftazurepass](https://www.microsoftazurepass.com/Home/HowTo?Length=5)
+Start by redeeming your Azure Pass by following the [microsoftazurepass](https://www.microsoftazurepass.com/Home/HowTo?Length=5) guide. 
