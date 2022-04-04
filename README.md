@@ -1,10 +1,17 @@
-# AI-infused-app-lab
+# AI-Infused Applications Technical Session (WEWC2564_7)
 
-This is github repository covers the essentials of getting started with Cognitive Services on Azure. Today we are going to work with two main tutorials from the cognitive services portfolio: 
-- Mick can you insert the other part here :)
-- [Document translation](https://github.com/iMicknl/ai-infused-app-lab/blob/main/DocumentTranslation.md) as a part of the Microsoft Translation Service.
+06.04.2022 | 10:00 - 12:00 CEST (Central European Summer Time)
 
-If you are more interested in vision we suggest that you consider: 
+This GitHub repository covers the essentials of getting started with Cognitive Services on Azure. Today we are going to work with two main tutorials from the Cognitive Services portfolio: 
+
+## Table of Contents
+
+1. [Redeem an Azure Pass](#redeeming-a-microsoft-azure-pass)
+2. [Train your own custom Neural Voice](CustomNeuralVoice.md)
+3. [Get started with Document Translation (Azure Translator)](DocumentTranslation.md)
+
+
+If you are more interested in a vision scenario we suggest that you consider one of the following options:
 - [Custom Vision Classifier Model](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier). This can be done both with the Portal and with the SDK using common languages like C#, Java or Python.
 - [Form Recognizer V3 - Getting started](https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/quickstarts/try-v3-form-recognizer-studio). This can be done both with the Form Recognizer Studio, the REST API and the SDK using common languages like C#, Java or Python.
 
