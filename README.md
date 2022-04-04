@@ -5,8 +5,8 @@ This is github repository covers the essentials of getting started with Cognitiv
 - [Document translation](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/get-started-with-document-translation?tabs=csharp) as a part of the Microsoft Translation Service.
 
 If you are more interested in vision we suggest that you consider: 
-- [Custom Vision Classifier Model](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier). This can be done both with the Portal and with the SDK.form recognizer 
-- [Form Recognizer V3 - Getting started](https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/quickstarts/try-v3-form-recognizer-studio). This can be done both with the Form Recognizer Studio, the REST API and the SDK
+- [Custom Vision Classifier Model](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier). This can be done both with the Portal and with the SDK using common languages like C#, Java or Python.
+- [Form Recognizer V3 - Getting started](https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/quickstarts/try-v3-form-recognizer-studio). This can be done both with the Form Recognizer Studio, the REST API and the SDK using common languages like C#, Java or Python.
 
 # Redeeming a Microsoft Azure Pass
 
