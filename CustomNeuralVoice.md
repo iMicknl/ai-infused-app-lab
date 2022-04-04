@@ -50,3 +50,5 @@ In this workshop we use CNV Lite, but it is good to [understand the differences 
 ## Resources
 
 [Custom Neural Voice overview](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/custom-neural-voice)
+
+## Next: [Assignment 2: Document Translation](DocumentTranslation.md)

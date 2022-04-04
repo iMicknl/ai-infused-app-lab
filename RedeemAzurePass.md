@@ -15,3 +15,6 @@ Limitations:
 Redemption guide:
 
 Start by redeeming your Azure Pass by following the [microsoftazurepass](https://www.microsoftazurepass.com/Home/HowTo?Length=5) guide. 
+
+
+## Next: [Assignment 1: Custom Neural Voice](CustomNeuralVoice.md)
