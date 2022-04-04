@@ -4,6 +4,10 @@ This is github repository covers the essentials of getting started with Cognitiv
 - Mick can you insert the other part here :)
 - [Document translation](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/get-started-with-document-translation?tabs=csharp) as a part of the Microsoft Translation Service.
 
+If you are more interested in vision we recommend that you consider: 
+- [Custom Vision Classifier Model](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier). This can be done both with the Portal and with the SDK.
+
+
 # Redeeming a Microsoft Azure Pass
 
 Participants are each supplied with an individual pass, so that they can do the work on their own. Each pass comes with a credit of $25 and is valid for 14 days, so that you are able to play around with the services after the session. It is **important** to follow the instructions of redemption below. 
