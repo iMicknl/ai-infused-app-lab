@@ -36,7 +36,7 @@ In this workshop we use CNV Lite, but it is good to [understand the differences 
 
 3. Now start the noise check. When you do this for the first time, your browser will ask for permissions to use your microphone.
     * If you have multiple microphones, make sure to select the right one.
-    * If you a single microphone and are currently in a Teams meeting, it could be that your microfone is in use. Leave the Teams meeting temporarily during the recording and data labeling.
+    * If you have only one microphone and are currently attending a Teams meeting, it could be that your microphone is in use. Leave the Teams meeting temporarily during the recording and data labeling step, and join back later.
 
 4. You can now start recording the sentences using the interface. There will be feedback on different areas and it will show you how to improve the recordings.
 
