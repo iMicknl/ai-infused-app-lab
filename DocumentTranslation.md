@@ -16,4 +16,4 @@ Important to note about this service:
 
 Since time is important please follow the guidelines in the below tutorial: 
 
-[Document translation](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/get-started-with-document-translation?tabs=csharp)
+[Document translation - Getting started](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/get-started-with-document-translation?tabs=csharp)
