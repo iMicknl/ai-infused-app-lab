@@ -2,7 +2,7 @@
 
 This is github repository covers the essentials of getting started with Cognitive Services on Azure. Today we are going to work with two main tutorials from the cognitive services portfolio: 
 - Mick can you insert the other part here :)
-- [Document translation](https://github.com/iMicknl/ai-infused-app-lab/blob/main/DocumentTranslation) as a part of the Microsoft Translation Service.
+- [Document translation](https://github.com/iMicknl/ai-infused-app-lab/blob/main/DocumentTranslation.md) as a part of the Microsoft Translation Service.
 
 If you are more interested in vision we suggest that you consider: 
 - [Custom Vision Classifier Model](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier). This can be done both with the Portal and with the SDK using common languages like C#, Java or Python.
