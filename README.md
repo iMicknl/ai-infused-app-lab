@@ -22,6 +22,10 @@ Limitations:
 - If you remove the monetary cap by providing a payment instrument, you will be converted to a 'Pay-as-you-go' account at the end of the offer duration. However, if the account has expired, you will need to create a support ticket to enable conversion.
 - Offers are not customizable.
 
+Considerations:
+- There is a limit to how many Azure Pass resources can be deployed in a region. If it fails please try another region
+- In rare occasions a resource provider might be missing. In that case go to "Subscriptions -> "Resource Providers" and register the one that is missing
+
 Redemption guide:
 
 Start by redeeming your Azure Pass by following the [microsoftazurepass](https://www.microsoftazurepass.com/Home/HowTo?Length=5) guide. 
