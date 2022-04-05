@@ -14,7 +14,7 @@ Limitations:
 
 Considerations when using an Azure Pass: 
 - There is a limit to how many Azure Passes can be deployed in a single region at a time. If deployment fails please consider using a different region. 
-- On rare occasions Azure Passes can be missing a resource provider. In that case you can add it with "
+- On rare occasions Azure Passes can be missing a resource provider. In that case you can add it to a subcruption by going to "Subscriptions" -> "Resource providers" and find the one missing from the error message.
 
 Redemption guide:
 
