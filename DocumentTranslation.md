@@ -18,3 +18,5 @@ Since time is important please follow the guidelines in the below tutorial:
 
 [Document translation - Getting started](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/document-translation/get-started-with-document-translation?tabs=csharp)
 
+If you are looking for a PDF, search for "The Carbon Benefits of Cloud Computing", which will lead you to a place where you can download a Microsoft PDF report.
+
